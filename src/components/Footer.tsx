@@ -59,7 +59,7 @@ const Footer = () => {
               <li className="flex items-start gap-2">
                 <Mail className="w-4 h-4 mt-0.5 shrink-0" />
                 <a href="mailto:oceanswithintravel@gmail.com" className="hover:text-secondary transition-colors">
-                  oceanswithintravel@gmail.com
+                  info@oceanwithin.com
                 </a>
               </li>
               <li className="flex items-start gap-2">
@@ -93,14 +93,14 @@ const Footer = () => {
 
         {/* Disclaimer */}
         <div className="mt-8 p-4 bg-primary-foreground/5 rounded-md text-xs text-primary-foreground/60 text-center">
-          🚢 Flights not included — clients are responsible for arranging their own flights to the departure city.
+          🚢 Flights are not included, clients are responsible for arranging their own flights to the departure city.
         </div>
 
         {/* Trust badges */}
         <div className="mt-6 pt-6 border-t border-primary-foreground/10 flex flex-wrap items-center justify-center gap-6">
-          <div className="bg-primary-foreground/10 rounded-md px-4 py-2 text-xs text-primary-foreground/70 font-sans font-medium">
+          {/* <div className="bg-primary-foreground/10 rounded-md px-4 py-2 text-xs text-primary-foreground/70 font-sans font-medium">
             🛡️ Protected Trust Services (PTS) Member
-          </div>
+          </div> */}
           <div className="bg-primary-foreground/10 rounded-md px-4 py-2 text-xs text-primary-foreground/70 font-sans font-medium">
             🚢 AROYA Cruises Preferred Partner
           </div>
