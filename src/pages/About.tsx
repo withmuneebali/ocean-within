@@ -34,10 +34,10 @@ const About = () => {
           </h2>
           <div className="space-y-6 text-muted-foreground leading-relaxed text-base sm:text-lg">
             <p>
-              At The Ocean Within Travel, we believe that travel is not merely a journey across oceans — it is a journey within. Our name reflects a deeper philosophy: that the vastness of the sea mirrors the vastness within each of us. We are here to help you explore both.
+              At The Ocean Within Travel, we believe that travel is not merely a journey across oceans—it is a journey within. Our name reflects a deeper philosophy: the vastness of the sea mirrors the vastness within each of us, and we are here to help you explore both.
             </p>
             <p>
-              We understand that for many travellers, a holiday is more than sightseeing — it is a chance to pause, to reflect, to reconnect with family and faith, and to experience the world in a way that feels authentic and respectful.
+              We understand that for many travellers, a holiday is more than sightseeing—it is a chance to pause, reflect, reconnect with family and faith, and experience the world in a way that feels authentic and respectful.
             </p>
             <p>
               That is why we have built our entire offering around AROYA Cruises, the pioneering Arabian cruise line that shares our values of excellence, hospitality, and inclusivity. Every voyage we create is designed to be a sanctuary — whether you are a family seeking quality time, a couple marking a milestone, or a group embarking on a transformative retreat.
@@ -65,7 +65,7 @@ const About = () => {
               AROYA Cruises offers an entirely alcohol-free cruise experience, with gourmet dining, state-of-the-art entertainment, luxurious spa facilities, and itineraries that explore the breathtaking Red Sea coastline and beyond. It is a cruise line designed for everyone — families, couples, and solo travellers alike.
             </p>
             <p>
-              As specialist AROYA partners, The Ocean Within Travel brings you closer to this vision, enhancing every sailing with our carefully curated Stay & Sail packages that include premium hotel accommodations and seamless transfers.
+              That is why we have built our entire offering around AROYA Cruises, the pioneering Arabian cruise line that shares our values of excellence, hospitality, and inclusivity. Every voyage we create is designed to be a sanctuary—whether you are a family seeking quality time, a couple celebrating a milestone, or a group embarking on a transformative retreat.
             </p>
           </div>
         </div>
