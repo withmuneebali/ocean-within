@@ -39,9 +39,9 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between py-4 px-4 lg:px-8">
         <Link to="/" className="flex items-center gap-2 group">
           <img
-            src={logoIcon}
+            src={logoImg}
             alt="The Ocean Within Travel logo"
-            className={`w-8 h-8 transition-all ${scrolled ? "" : "brightness-200"}`}
+            className={`h-10 w-auto transition-all ${scrolled ? "" : "brightness-200"}`}
           />
           <span className={`font-serif text-xl font-semibold tracking-wide transition-colors ${scrolled ? "text-primary" : "text-accent"}`}>
             The Ocean Within
