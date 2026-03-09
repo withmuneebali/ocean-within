@@ -96,10 +96,10 @@ const Index = () => {
             The Ocean Within Philosophy
           </h2>
           <p className="text-muted-foreground leading-relaxed text-base sm:text-lg mb-6">
-            At The Ocean Within Travel, we believe that travel is not merely a journey across oceans — it is a journey within. Our name reflects a deeper philosophy: that the vastness of the sea mirrors the vastness within each of us. We are here to help you explore both.
+            At The Ocean Within Travel, we believe that travel is not merely a journey across oceans, it is a journey within. Our name reflects a deeper philosophy: that the vastness of the sea mirrors the vastness within each of us. We are here to help you explore both.
           </p>
           <p className="text-muted-foreground leading-relaxed text-base sm:text-lg">
-            We specialise exclusively in AROYA Cruises, the pioneering Arabian cruise line, combined with premium "Stay & Sail" land packages. Every voyage we craft is designed to be a sanctuary — a space for families, individuals, and groups to reconnect with themselves and each other, surrounded by the beauty of the Red Sea.
+            We specialise exclusively in AROYA Cruises, the pioneering Arabian cruise line, combined with premium "Stay & Sail" land packages. Every voyage we craft is designed to be a sanctuary, a space for families, individuals, and groups to reconnect with themselves and each other, surrounded by the beauty of the Red Sea.
           </p>
         </div>
       </section>
