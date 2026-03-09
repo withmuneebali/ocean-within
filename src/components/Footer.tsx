@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Mail, Phone, MapPin, Instagram, Facebook, Linkedin } from "lucide-react";
-const logoIcon = "/favicon.ico";
+import logoImg from "@/assets/logo.png";
 
 const Footer = () => {
   return (
@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <img src={logoIcon} alt="The Ocean Within Travel logo" className="w-7 h-7 brightness-200" />
+              <img src={logoImg} alt="The Ocean Within Travel logo" className="h-9 w-auto brightness-200" />
               <span className="font-serif text-lg font-semibold">The Ocean Within</span>
             </div>
             <p className="text-primary-foreground/70 text-sm leading-relaxed mb-4">
