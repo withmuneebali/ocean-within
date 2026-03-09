@@ -21,7 +21,7 @@ const About = () => {
             About The Ocean Within
           </h1>
           <p className="text-primary-foreground/80 text-lg sm:text-xl leading-relaxed">
-            More than a travel agency — a philosophy of journeying with purpose, stillness, and discovery.
+            More than a travel agency, a philosophy of journeying with purpose, stillness, and discovery.
           </p>
         </div>
       </section>
@@ -54,18 +54,18 @@ const About = () => {
               The AROYA Connection
             </h2>
             <p className="text-secondary font-serif text-xl italic">
-              Ar-Roya (الرؤيا) — "The Vision"
+              Ar-Roya (الرؤيا)  "The Vision"
             </p>
           </div>
           <div className="space-y-6 text-muted-foreground leading-relaxed text-base sm:text-lg">
             <p>
-              The name AROYA comes from the Arabic word "Ar-Roya" meaning "The Vision." It represents a new way of experiencing the sea — one rooted in Arabian hospitality, world-class service, and a deep respect for culture and tradition.
+              The name AROYA comes from the Arabic word "Ar-Roya" meaning "The Vision." It represents a new way of experiencing the sea, one rooted in Arabian hospitality, world-class service, and a deep respect for culture and tradition.
             </p>
             <p>
-              AROYA Cruises offers an entirely alcohol-free cruise experience, with gourmet dining, state-of-the-art entertainment, luxurious spa facilities, and itineraries that explore the breathtaking Red Sea coastline and beyond. It is a cruise line designed for everyone — families, couples, and solo travellers alike.
+              AROYA Cruises offers an entirely alcohol-free cruise experience, with gourmet dining, state-of-the-art entertainment, luxurious spa facilities, and itineraries that explore the breathtaking Red Sea coastline and beyond. It is a cruise line designed for everyone, families, couples, and solo travellers alike.
             </p>
             <p>
-              That is why we have built our entire offering around AROYA Cruises, the pioneering Arabian cruise line that shares our values of excellence, hospitality, and inclusivity. Every voyage we create is designed to be a sanctuary—whether you are a family seeking quality time, a couple celebrating a milestone, or a group embarking on a transformative retreat.
+              That is why we have built our entire offering around AROYA Cruises, the pioneering Arabian cruise line that shares our values of excellence, hospitality, and inclusivity. Every voyage we create is designed to be a sanctuary, whether you are a family seeking quality time, a couple celebrating a milestone, or a group embarking on a transformative retreat.
             </p>
           </div>
         </div>
@@ -86,7 +86,7 @@ const About = () => {
                 Individual & Family Sanctuaries
               </h3>
               <p className="text-muted-foreground leading-relaxed">
-                We create bespoke holiday experiences for individuals, couples, and families. Every Stay & Sail package is tailored to your needs — from selecting the perfect cabin to arranging premium hotel stays and private transfers. Whether it's a honeymoon, a multi-generational family reunion, or a solo retreat, we ensure every detail reflects your vision.
+                We create bespoke holiday experiences for individuals, couples, and families. Every Stay & Sail package is tailored to your needs, from selecting the perfect cabin to arranging premium hotel stays and private transfers. Whether it's a honeymoon, a multi-generational family reunion, or a solo retreat, we ensure every detail reflects your vision.
               </p>
             </div>
             <div className="bg-card rounded-lg p-8 shadow-sm border border-border">
